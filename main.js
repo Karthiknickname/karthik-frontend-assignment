@@ -185,7 +185,7 @@ function initScene(data) {
   
     const valueDisplay = document.createElement('span');
     valueDisplay.textContent = input.value;
-  
+    // The speed control directly affects the planet's orbital motion through this code
     input.addEventListener('input', () => {
       const newSpeed = parseFloat(input.value);
       planet.userData.speed = newSpeed;
