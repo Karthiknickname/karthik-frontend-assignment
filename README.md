@@ -15,10 +15,13 @@ This project is an interactive 3D simulation of our solar system built with [Thr
 
 project-root/
 │
+
 ├── /rocks
+
 │ ├── Rock1.obj
 │ ├── Rock2.obj
 │ └── Rock3.obj
+
 ├── /src
 │ ├── getAsteroidBelt.js
 │ ├── getElipticLines.js
@@ -27,6 +30,7 @@ project-root/
 │ ├── getPlanet.js
 │ ├── getStarfield.js
 │ └── getSun.js
+
 ├── /textures
 │ ├── earth.png
 │ ├── jupiter.png
@@ -66,6 +70,12 @@ GLSL shaders (Fresnel effect)
 OBJ Loader for asteroids
 
 ### 3. 🐱‍🏍 ScreenShots
+
+ 🌏 CLOSER LOOK OF OUR MOTHER EARTH
+ 
 ![Closer Look of Earth](https://github.com/user-attachments/assets/2806aa3e-e42a-4baa-a77e-ef8e08b8c7f1)
+
+ ⚡ SOLAR SYSTEM
+ 
 ![Solar System](https://github.com/user-attachments/assets/42c2aa1f-9158-45a3-ba6f-3c6c1d0b7d43)
 
