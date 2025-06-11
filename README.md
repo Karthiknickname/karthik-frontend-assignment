@@ -23,6 +23,7 @@ project-root/
 │ └── Rock3.obj
 
 ├── /src
+
 │ ├── getAsteroidBelt.js
 │ ├── getElipticLines.js
 │ ├── getFresnelMat.js
@@ -32,6 +33,7 @@ project-root/
 │ └── getSun.js
 
 ├── /textures
+
 │ ├── earth.png
 │ ├── jupiter.png
 │ └── mars.png
