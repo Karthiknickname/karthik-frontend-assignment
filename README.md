@@ -55,10 +55,10 @@ Ensure you have a local web server. You can use:
 - [VSCode Live Server]
 - NPX stands for Node Package eXecute. It is simply an NPM package runner.
 - Zero configuration needed.
-- Supports custom ports: npx serve -l 3000
-- Can serve any folder: npx serve ./dist
-
 - npx serve to run
+- Serving!                                                                               
+   │   - Local:    http://localhost:3000         │      
+   │   - Network:  http://192.168.165.189:3000   │ 
 - npx: A tool that comes with Node.js. It lets you run packages without installing them globally.
 - serve: A lightweight npm package (by Vercel) that acts as a static file server
 
